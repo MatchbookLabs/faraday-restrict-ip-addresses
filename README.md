@@ -38,6 +38,7 @@ Permit/denied order is:
 #### Author
 
 Dat @bhuga with shoutouts to @mastahyeti's [gist.](https://gist.github.com/mastahyeti/8497793)
+@dalibor with fixes from their [branch.](https://github.com/dalibor/faraday-restrict-ip-addresses/tree/gem_install)
 
 #### UNLICENSE
 
